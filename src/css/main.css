@@ -1,7 +1,4 @@
 /* Decent Defaults */
-
-img,
-video {
-  width: 100%;
-  height: auto;
+.graph {
+  margin: 20px;
 }
